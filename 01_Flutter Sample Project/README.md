@@ -3,7 +3,7 @@
 This is a simple Flutter application that displays a centered text in the AppBar and an image in the body.
 ## Screenshot
 
-![App Screenshot](assets/images/appScreenshot.png)
+![App Screenshot](images/appScreenshot.png)
 
 
 ## Features
