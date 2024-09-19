@@ -9,4 +9,4 @@ This is a simple Flutter application that displays a "To Do" title in the app ba
 
 ## Screenshot
 
-![App Screenshot](images/Screenshot_1.png)
+<img src="images/Screenshot_1.png" alt="App Screenshot" width="200"/>
