@@ -1,4 +1,4 @@
-# 01 Flutter Sample Project 
+# Flutter Simple Project_01 
 
 This is a simple Flutter application that displays a centered text in the AppBar and an image in the body.
 ## Screenshot
