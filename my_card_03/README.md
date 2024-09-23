@@ -1,16 +1,13 @@
 # my_card_03
 
-A new Flutter project.
+This is a simple Flutter application that displays a personal profile card with contact information.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Displays a profile picture using a `CircleAvatar`.
+- Shows the user's name and title.
+- Contact information is displayed using `Card` widgets for phone number and email.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/Screenshot1.png" alt="App Screenshot" width="200"/>
