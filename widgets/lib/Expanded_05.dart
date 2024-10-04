@@ -45,9 +45,8 @@ Text _buildText(String title) {
 
 Container _buildBodyUsingRow() {
   return Container(
-    color: Colors.cyanAccent,
     width: double.infinity,
-    child: Column(
+    child: Row(
       children: [
         _buildColoredBox('A', Colors.greenAccent, 100, flex: 1),
         _buildColoredBox('B', const Color.fromARGB(255, 105, 116, 240), 100,
