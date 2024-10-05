@@ -13,3 +13,4 @@ Explore examples of commonly used Flutter widgets:
 - **[Warp](lib/Wrap_07.dart)**: Arrange widgets in multiple lines when space is limited.
 - **[ListView](lib/ListView_08.dart)**:  Implement a scrollable list of widgets arranged vertically or horizontally.
 - **[ListView.builder](lib/ListViewBuilder_09.dart)**:  build a scrollable list of widgets on demand.
+- **[Padding](lib/padding_10.dart)**: Add space around a widget, controlling the distance between the widget's.
