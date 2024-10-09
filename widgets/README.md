@@ -1,8 +1,5 @@
 # widgets
 
-This folder contains custom widgets built with Flutter.
-
-## Features
 Explore examples of commonly used Flutter widgets:
 - **[Text & TextStyle](lib/TextAndTextStyle_01.dart)**: Learn how to style text and customize fonts.
 - **[Container & BoxDecoration](lib/containerAndBoxDecoration_02.dart)**: Create containers with various decorations like colors, borders.
@@ -17,3 +14,4 @@ Explore examples of commonly used Flutter widgets:
 - **[Center & Stack & Positioned](lib/centerAndStackAndPositioned_11.dart)**: Learn how to center widgets with `Center`, place widgets on top of each other with  `Stack`, and move them to exact spots with `Positioned`.
 - **[ElevatedButton & ButtonStyle](lib/ElevatedButtonAndButtonStyle_12.dart)**: Learn how to create a raised button with `ElevatedButton` and customize its look using `ButtonStyle`.
 - **[SvgPicture.asset](lib/SvgPicture.asset_13.dart)**: Display SVG images from assets.
+- **[TextField And InputDecoration](lib/TextFieldAndInputDecoration_14.dart)**: Learn how to create text input fields with `TextField` and style them using `InputDecoration` to add things like labels, icons, and borders.
