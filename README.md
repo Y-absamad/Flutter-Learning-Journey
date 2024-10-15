@@ -14,6 +14,7 @@ Welcome to my Flutter Learning Journey repository! This repository documents my 
 3. **[My Card 03](my_card_03)**: Application that displays a personal profile card with contact information.
 4. **[Row and Column practical 04](flutter_row_and_column_practical_04)**: Application that displays ascrollable layout containing text inside containers, arranged in rows and columns.
 5. **[Simple Login Page 05](flutter_simple_login_page_05)**: Application that demonstrates a basic login UI with email and password input fields, along with a login button.
+6. **[Simple Welcome, Login, and Signup App 06](flutter_simple_welcome_login_signup_06)**: Application that demonstrates navigation between three screens: Welcome, Login, and Signup.
 
 
 **For more details on each project, browse the respective folders**.
