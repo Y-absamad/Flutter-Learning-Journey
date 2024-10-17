@@ -15,6 +15,7 @@ Welcome to my Flutter Learning Journey repository! This repository documents my 
 4. **[Row and Column practical 04](flutter_row_and_column_practical_04)**: Application that displays ascrollable layout containing text inside containers, arranged in rows and columns.
 5. **[Simple Login Page 05](flutter_simple_login_page_05)**: Application that demonstrates a basic login UI with email and password input fields, along with a login button.
 6. **[Simple Welcome, Login, and Signup App 06](flutter_simple_welcome_login_signup_06)**: Application that demonstrates navigation between three screens: Welcome, Login, and Signup.
+7. **[Flutter UI - Welcome, Login, and Signup Screens]([flutter_simple_welcome_login_signup_06](https://github.com/Y-absamad/Flutter_UI_Welcome_Login_and_Signup_Screens))**
 
 
 **For more details on each project, browse the respective folders**.
