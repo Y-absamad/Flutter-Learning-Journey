@@ -16,6 +16,7 @@ Welcome to my Flutter Learning Journey repository! This repository documents my 
 5. **[Simple Login Page 05](flutter_simple_login_page_05)**: Application that demonstrates a basic login UI with email and password input fields, along with a login button.
 6. **[Simple Welcome, Login, and Signup App 06](flutter_simple_welcome_login_signup_06)**: Application that demonstrates navigation between three screens: Welcome, Login, and Signup.
 7. **[Flutter UI - Welcome, Login, and Signup Screens](https://github.com/Y-absamad/Flutter_UI_Welcome_Login_and_Signup_Screens)**: This is a simple project that demonstrates a welcome, login and signup screen UI.
+8. **[Flutter tataboq app (Image Matching Game)](https://github.com/Y-absamad/Flutter_tataboq_app_Image_Matching_Game)**: Simple Flutter game where users click on images to see if they match.
 
 
 **For more details on each project, browse the respective folders**.
