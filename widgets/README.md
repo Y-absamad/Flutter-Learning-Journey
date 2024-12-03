@@ -20,4 +20,10 @@ Explore examples of commonly used Flutter widgets:
 - **[Icon And IconButton](lib/iconAndIconButton_17.dart)**: Display icons with `Icon` and make them clickable with `IconButton`.
 - **[MaterialButton](lib/materialButton_18.dart)**: Create a basic button with `MaterialButton` that you can customize and style.
 - **[FloatingActionButton](lib/floatingActionButton_19.dart)**: Add a circular, floating button that’s often used for primary actions on a screen.
-
+- **[Switch And SwitchListTile](lib/switchAndSwitchListTile_20.dart)**: Add an on/off toggle with `Switch` and combine it with text and icons in a row using `SwitchListTile`.
+- **[RadioListTile](lib/RadioListTile_21.dart)**: Create selectable radio buttons, allowing only one option to be chosen at a time.
+- **[Checkbox And CheckboxListTile](lib/CheckboxAndCheckboxListTile_22.dart)**: Add checkboxes with `Checkbox` and combine them with text and icons in a row using `CheckboxListTile`, allowing multiple selections.
+- **[TextFormField](lib/TextFormField_23.dart)**: Create text input fields that support validation and form handling, making it easy to collect and manage user input.
+- **[AppBar](lib/AppBar_24.dart)**: Add a top bar to your app with titles, icons, and actions, providing easy navigation.
+- **[Drawer](lib/Drawer_25.dart)**: Add a sliding side menu for easy navigation between app sections.
+- **[TabBar And TabBarView](lib/TabBarAndTabBarView_26.dart)**: Create tabs with `TabBar` to switch between views and show content for each tab using `TabBarView`.

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -15,6 +15,29 @@ class MyApp extends StatelessWidget {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            Padding(
+              padding: EdgeInsets.all(8),
+              child: TextField(
+                maxLength: 1000,
+                minLines: 1,
+                maxLines: 3,
+                //enabled: true,
+                decoration: InputDecoration(
+                  border: OutlineInputBorder(),
+                  focusedBorder: OutlineInputBorder(
+                    borderSide: BorderSide(color: Colors.red , width: 3),
+                    borderRadius: BorderRadius.all(Radius.circular(50)),
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderSide: BorderSide(color : Colors.green ,width: 3),
+                    borderRadius: BorderRadius.all(Radius.circular(15)),
+                  ),
+                  disabledBorder: OutlineInputBorder(
+                    borderSide: BorderSide(color: Colors.black , width: 3)
+                  )
+                ),
+              ),
+            ),
             Padding(
               padding: EdgeInsets.all(8.0),
               child: TextField(
