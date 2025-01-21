@@ -27,3 +27,12 @@ Explore examples of commonly used Flutter widgets:
 - **[AppBar](lib/AppBar_24.dart)**: Add a top bar to your app with titles, icons, and actions, providing easy navigation.
 - **[Drawer](lib/Drawer_25.dart)**: Add a sliding side menu for easy navigation between app sections.
 - **[TabBar And TabBarView](lib/TabBarAndTabBarView_26.dart)**: Create tabs with `TabBar` to switch between views and show content for each tab using `TabBarView`.
+- **[showModalBottomSheet](lib/showModalBottomSheet_27.dart)**: 
+- **[ThemeData](lib/ThemeData_28.dart)**: 
+- **[BottomNavigtionBar](lib/BottomNavigtionBar_29.dart)**: 
+- **[PageView](lib/PageView_30.dart)**: 
+- **[Navigator](lib/Navigator_31.dart)**: 
+- **[ShowDialog](lib/ShowDialog_32.dart)**: 
+- **[SnackBar](lib/SnackBar_33.dart)**: 
+
+
